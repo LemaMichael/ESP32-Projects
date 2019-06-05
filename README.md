@@ -2,7 +2,9 @@
 Projects using the ESP32 WiFi HTIT Bluetooth Board 
 
 # Board Configuration 
-![Board](/Assets/config.jpg)
+<p align="left">
+ <img src = "/Assets/Config.png" height = "375">
+</p>
 
 
 
